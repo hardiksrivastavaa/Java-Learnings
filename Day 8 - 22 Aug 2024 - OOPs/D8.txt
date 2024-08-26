@@ -1,0 +1,50 @@
+P26 : WAP to create a Class with a method and call the method
+
+class MyClass {
+public void sayHello(String name) {
+
+System.out.println("Hello " + name);
+
+}}
+
+class P26 {
+public static void main(String[] args) {
+
+MyClass n = new MyClass();
+n.sayHello("Hardik");
+
+}}
+
+P27 : WAP to create a employee class with employee id, name, salary and display these details in main method
+
+class Employee {
+int empid;
+String empname;
+double salary;
+public void setValue(int eid, String ename, Double sal) {
+empid = eid;
+empname = ename;
+salary= sal;
+}
+public void display() {
+System.out.println("Employee ID : " + empid);
+System.out.println("Employee Name : " + empname);
+System.out.println("Employee Salary : " + salary);
+}
+}
+
+class P27 {
+public static void main(String[] args) {
+
+Employee e1 =  new Employee();
+e1.setValue(101, "Hardik", 50000.0);
+e1.display();
+
+Employee e2 =  new Employee();
+e1.setValue(102, "Sanskar", 60000.0);
+e1.display();
+
+
+}
+}
+
