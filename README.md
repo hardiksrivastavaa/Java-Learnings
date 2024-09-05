@@ -45,7 +45,7 @@ This repository documents my journey through the **45-day #45DaysJavaChallenge**
 10. [Spring and Spring Boot](#spring-and-spring-boot)
     - Introduction to Spring Framework
     - Building RESTful APIs with Spring Boot
-    - Project: [Online Test Portal]
+    - Project: Online Test Portal
 
 ## Introduction to Java
 
@@ -112,7 +112,7 @@ In this final phase, I will transition to learning about the Spring framework an
 - **Spring Framework:** Introduction to dependency injection, aspect-oriented programming, and Spring modules.
 - **Spring Boot:** Quickly building and deploying RESTful services.
 
-### Project: [Online Test Portal]
+### Project: Online Test Portal
 
 I will culminate my learning by developing a project using the skills acquired in Spring and Spring Boot.
 
