@@ -1,6 +1,6 @@
-# 45-Day Java Learning Challenge
+# Java Learning at SPI
 
-This repository documents my journey through the **45-day #45DaysJavaChallenge**, where I am learning Java from scratch to advanced concepts, including Spring and Spring Boot. Throughout this journey, I will build projects to apply the knowledge gained.
+This repository documents my journey, where I am learning Java from scratch to advanced concepts, including Spring and Spring Boot. Throughout this journey, I will build projects to apply the knowledge gained.
 
 ## Table of Contents
 
