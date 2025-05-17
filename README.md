@@ -1,51 +1,6 @@
-# Java Learning at SPI
+# Java Learning
 
 This repository documents my journey, where I am learning Java from scratch to advanced concepts, including Spring and Spring Boot. Throughout this journey, I will build projects to apply the knowledge gained.
-
-## Table of Contents
-
-1. [Introduction to Java](#introduction-to-java)
-    - History of Java
-    - Features of Java
-    - Versions of Java
-    - Major Components (JVM, JRE, JDK)
-2. [Basic Syntax](#basic-syntax)
-    - Data Types
-    - Variables
-    - Operators
-3. [Control Statements](#control-statements)
-    - Decision Control (if-else, switch)
-    - Loop Control (for, while, do-while)
-4. [Methods in Java](#methods-in-java)
-    - Defining Methods
-    - Method Overloading
-5. [Arrays](#arrays)
-    - Single-Dimensional Arrays
-    - Multi-Dimensional Arrays
-    - Array Manipulations
-6. [Strings in Java](#strings-in-java)
-    - String Handling
-    - String Methods
-7. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-    - Classes and Objects
-    - Constructors
-    - Encapsulation
-    - Inheritance
-    - Polymorphism
-    - Abstraction
-8. [Exception Handling](#exception-handling)
-    - Types of Exceptions
-    - Try-Catch Blocks
-    - Custom Exceptions
-9. [Advanced Java Concepts](#advanced-java-concepts)
-    - Collections Framework
-    - Multi-threading
-    - File Handling
-    - Networking
-10. [Spring and Spring Boot](#spring-and-spring-boot)
-    - Introduction to Spring Framework
-    - Building RESTful APIs with Spring Boot
-    - Project: Online Test Portal
 
 ## Introduction to Java
 
@@ -112,10 +67,3 @@ In this final phase, I will transition to learning about the Spring framework an
 - **Spring Framework:** Introduction to dependency injection, aspect-oriented programming, and Spring modules.
 - **Spring Boot:** Quickly building and deploying RESTful services.
 
-### Project: Online Test Portal
-
-I will culminate my learning by developing a project using the skills acquired in Spring and Spring Boot.
-
----
-
-Stay tuned for continuous updates as I progress through this challenge!
