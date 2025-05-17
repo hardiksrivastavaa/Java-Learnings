@@ -1,4 +1,4 @@
-# Java Learning
+# Java Learnings
 
 This repository documents my journey, where I am learning Java from scratch to advanced concepts, including Spring and Spring Boot. Throughout this journey, I will build projects to apply the knowledge gained.
 
